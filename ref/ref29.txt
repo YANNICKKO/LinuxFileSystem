@@ -1,0 +1,8 @@
+Amy_dir Fred_dir Helen_dir 
+File Joseph_dir not found!
+Directory Joseph_dir found!
+/root/Amy_dir/Joseph_dir
+File Evelyn_file found!
+/root/Fred_dir
+/root/Fred_dir/Clayton_dir
+File Clayton_dir doesn't exist!

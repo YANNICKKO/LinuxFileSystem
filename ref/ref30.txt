@@ -1,0 +1,15 @@
+Alfred_dir Karyn_dir Terri_dir William_dir Ronald_file 
+/root/Joseph_dir/Debra_dir/Helen_dir/Belinda_dir/Marco_dir/Edward_dir/Michael_dir
+File Julian_file found!
+/root/Joseph_dir/Debra_dir/Helen_dir/Belinda_dir
+Directory Belinda_dir found!
+/root/Joseph_dir/Debra_dir/Helen_dir/Belinda_dir
+Michael_dir Peggy_dir Elaine_file Nancy_file Walter_file 
+Alfred_dir Edward_dir Karyn_dir Terri_dir William_dir Ronald_file 
+Belinda_dir Darlene_dir Myles_dir Ronald_dir Amy_file Darlene_file Elaine_file 
+File Berta_file already exists!
+/root/Joseph_dir/Eric_dir
+Joseph_dir Lee_dir Terri_dir Travis_dir Claire_file Mary_file 
+/root
+File Jacob_file found!
+/root/Joseph_dir

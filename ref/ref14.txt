@@ -1,0 +1,10 @@
+dir2 dir4 dir8 file1 file2 
+File file8 doesn't exist!
+dir2 dir4 dir8 file1 file2 file6 
+File file2 already exists!
+File file0 doesn't exist!
+Directory dir2 already exists!
+dir2 dir4 dir6 dir8 dir9 file1 file6 
+File file3 doesn't exist!
+Directory dir2 already exists!
+dir2 dir4 dir6 dir8 dir9 file1 file4 file6 

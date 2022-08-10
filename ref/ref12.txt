@@ -1,0 +1,5 @@
+File file5 doesn't exist!
+file0 file1 file2 file3 
+File file1 already exists!
+File file4 doesn't exist!
+dir3 dir6 file0 file1 file2 file3 

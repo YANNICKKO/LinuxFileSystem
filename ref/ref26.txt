@@ -1,0 +1,10 @@
+/root
+Joe_dir Peggy_dir William_dir Nancy_file 
+/root/Peggy_dir/Debra_dir
+File Nancy_file doesn't exist!
+/root/Joe_dir/Joe_dir
+Joe_dir Peggy_dir William_dir Nancy_file 
+Directory Debra_dir doesn't exist!
+Peggy_dir 
+Directory Peggy_dir already exists!
+/root/Peggy_dir

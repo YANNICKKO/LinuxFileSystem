@@ -1,0 +1,8 @@
+file2 file6 file8 
+file1 file2 file7 file8 
+File file0 doesn't exist!
+file1 file6 file7 file8 
+File file2 doesn't exist!
+File file2 already exists!
+File file7 already exists!
+file1 file2 file3 file6 file7 file8 

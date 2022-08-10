@@ -1,0 +1,8 @@
+File Mary_dir doesn't exist!
+File Helen_file already exists!
+Mary_dir Helen_file Jacob_file James_file 
+Joseph_dir Mary_dir Carrie_file Helen_file Jacob_file James_file Joseph_file Lonna_file Marie_file Robin_file Scott_file 
+Heather_dir James_dir Joseph_dir Marco_dir Mary_dir Alfred_file Carrie_file Helen_file Jacob_file James_file Joan_file Joseph_file Lonna_file Marie_file Patricia_file Robin_file Scott_file Walter_file 
+Directory Walter_file doesn't exist!
+File Joseph_dir doesn't exist!
+James_dir Joseph_dir Mary_dir Carrie_file Helen_file Jacob_file James_file Joan_file Joseph_file Lonna_file Marie_file Patricia_file Robin_file Scott_file Walter_file 

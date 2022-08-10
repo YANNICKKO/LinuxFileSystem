@@ -1,0 +1,7 @@
+Directory Berta_dir already exists!
+Berta_dir Clayton_dir Doreen_dir Julian_dir Lonna_dir Lori_dir Alice_file Andrew_file Barbara_file Brain_file Claire_file Courtney_file Florence_file Janice_file Karyn_file Ralph_file Samuel_file Theodore_file 
+Directory Theodore_file doesn't exist!
+Directory Berta_dir doesn't exist!
+File Doreen_dir doesn't exist!
+Directory Ralph_file doesn't exist!
+Clayton_dir Doreen_dir Julian_dir Lonna_dir Alice_file Andrew_file Barbara_file Brain_file Claire_file Courtney_file Janice_file Karyn_file Ralph_file Samuel_file Theodore_file 

@@ -1,0 +1,12 @@
+dir1 dir3 file1 file2 
+File file2 already exists!
+Directory dir3 already exists!
+Directory dir1 already exists!
+dir1 dir3 file1 file2 file3 
+File file2 already exists!
+dir1 dir3 dir4 dir8 file1 file2 file3 file5 file6 
+Directory dir8 already exists!
+File file1 already exists!
+File file2 already exists!
+Directory dir8 already exists!
+dir1 dir3 dir4 dir8 file0 file1 file2 file3 file5 file6 file7 

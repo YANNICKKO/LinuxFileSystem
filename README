@@ -1,0 +1,20 @@
+Luam fiecare comanda linie cu linie.
+O sa fac README-ul explicand doar functiile cu directoare, pentru ca cele cu fisiere
+sunt exact la fel.
+
+Functia de init doar aloca o structura si ii baga numele si parintele.
+Functia de inserare este exact cea de ABC din lab.
+Functia de existenta doar cauta stanga dreapta pana cand il gaseste in arbore.
+Functia de remove cauta directorul. Cand il gaseste cauta daca are elemente in
+stanga/ dreapta. Daca nu are poate doar sa il interschimbe cu celalalt. Daca are
+il interschimbam doar cu unu dintre ele si apoi trebuie sa le inseram pe restul
+care ne-au ramas inapoi in arbore. Stiu ca e cam dubioasa si foarte ineficienta,
+dar nu am inteles-o pe cea din curs (ca nu am fost).
+Functia find merge pana la frunze si cauta directorul. Daca il gaseste il face pe
+done 1 ca sa se opreasca la alte apeluri ale functiei. Daca nu gaseste se duce si
+in subdirectoare si il cauta si acolo. Daca nu il gaseste done va fi 0 la sfarsit.
+Functia cd returneaza directorul pe care il caut. Daca il gaseste schimba directorul
+cuerent cu el.
+Functia pwd doar afiseaza toate directoarele pana cand ajung la root.
+Functia print ma duc pana la frunza cea mai din stanga si incepo sa afisez.
+Functia delete ma duc stanga, dreapta, subdirector, fisiere si dau free.

@@ -1,0 +1,5 @@
+/root/Dorothy_dir/Charlie_dir/Rachel_dir
+File Rachel_file found!
+/root/Dorothy_dir/Charlie_dir/Rachel_dir
+Directory Alice_dir found!
+/root/Dorothy_dir/Charlie_dir/Alice_dir

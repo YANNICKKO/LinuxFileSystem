@@ -1,0 +1,8 @@
+Directory Agnes_dir found!
+/root/Agnes_dir
+Directory not found!
+Directory Terri_dir not found!
+File Debra_file found!
+/root
+File Debra_file found!
+/root

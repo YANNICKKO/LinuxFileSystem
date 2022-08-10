@@ -1,0 +1,8 @@
+Edward_dir James_dir Marco_dir Marie_dir Sharon_dir Stacie_dir Carrie_file Eric_file 
+/root/Sharon_dir/Robert_dir
+Edward_dir James_dir Marie_dir Sharon_dir Carrie_file Eric_file 
+Directory not found!
+File Carrie_file already exists!
+/root/Dorothy_dir
+Directory Marco_dir doesn't exist!
+Dorothy_dir Edward_dir James_dir Marie_dir Peggy_dir Sharon_dir Stacie_dir Florence_file 

@@ -1,0 +1,7 @@
+
+Directory dir10 already exists!
+dir10 dir8 dir9 
+Directory dir9 already exists!
+dir10 dir8 dir9 file5 file6 file7 file8 
+File file8 already exists!
+dir10 dir8 dir9 file0 file1 file5 file6 file7 file8 file? 

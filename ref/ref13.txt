@@ -1,0 +1,7 @@
+Directory dir5 already exists!
+dir0 dir5 
+File file2 doesn't exist!
+dir0 dir5 file1 
+dir0 dir5 dir7 file0 file1 file2 file5 file7 
+Directory dir0 already exists!
+dir0 dir2 dir5 dir6 dir7 file0 file1 file2 file5 

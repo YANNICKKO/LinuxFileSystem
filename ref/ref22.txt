@@ -1,0 +1,7 @@
+Erin_dir Marco_dir Belinda_file Robin_file 
+Directory Erin_dir doesn't exist!
+Dorothy_dir James_dir Manuel_dir Stacie_dir 
+James_file Robert_file Sandra_file 
+Joseph_dir Travis_dir Barbara_file Joe_file 
+Andrew_dir Doreen_dir Jacqueline_dir James_file Robert_file Sandra_file 
+Erin_dir Marco_dir Belinda_file 

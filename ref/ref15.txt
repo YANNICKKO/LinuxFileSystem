@@ -1,0 +1,7 @@
+Courtney_dir Sondra_dir Lori_file 
+Ann_dir Courtney_dir Karyn_dir Mary_dir Myles_dir Sondra_dir Alma_file Andrew_file Lori_file 
+File Alice_file doesn't exist!
+Directory Courtney_dir already exists!
+Ann_dir Courtney_dir Jacqueline_dir Karyn_dir Mary_dir Myles_dir Sandy_dir Sondra_dir Alice_file Alma_file Andrew_file Eric_file James_file Lori_file Sandra_file 
+File Ann_dir doesn't exist!
+Ann_dir Courtney_dir Jacqueline_dir Karyn_dir Myles_dir Sandy_dir Sondra_dir Alma_file Andrew_file Eric_file Heather_file James_file Lori_file Sandra_file 

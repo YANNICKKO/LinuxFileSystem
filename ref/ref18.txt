@@ -1,0 +1,5 @@
+File Dora_file already exists!
+Agnes_dir Alfred_dir Duane_dir Florence_dir Fred_dir Heather_dir Lillian_dir Marco_dir Marie_dir Mary_dir Michael_dir Richard_dir Ronald_dir Vicki_dir Walter_dir Willie_dir Abel_file Donald_file Dora_file Duane_file Jacob_file Marco_file Richard_file 
+File Duane_file doesn't exist!
+Directory Michael_dir doesn't exist!
+Agnes_dir Alfred_dir Duane_dir Florence_dir Fred_dir Lillian_dir Marco_dir Marie_dir Mary_dir Ronald_dir Walter_dir Willie_dir Abel_file Donald_file Marco_file 

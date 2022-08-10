@@ -1,0 +1,3 @@
+
+Directory dir6 already exists!
+dir1 dir3 dir6 dir7 dir8 dir9 file0 file2 file3 file5 
